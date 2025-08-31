@@ -20,7 +20,7 @@ An Android application that uses AI and image processing to identify the current
   - Jackson JSON (API response parsing)
 - **Libraries**: CameraX / Image Picker, Permission Handler
 
-## 📽️ [Watch Video](https://www.youtube.com/shorts/x3vyM2I5iVM)
+## 📽️ [Watch Video](https://youtube.com/shorts/N18fsS_S4cQ?feature=share)
 
 ## 📸 Screenshots
 
